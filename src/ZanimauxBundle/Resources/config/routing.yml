@@ -5,15 +5,7 @@ zanimaux_homepage:
 affiche:
     path:     /affiche
     defaults: { _controller: ZanimauxBundle:Vet:affiche}
-inscription:
-    path:     /inscrit
-    defaults: { _controller: ZanimauxBundle:User:inscrit }
-modification:
-    path:     /update
-    defaults: { _controller: ZanimauxBundle:Vet:update }
-acceuil:
-    path:     /acceuil
-    defaults: { _controller: ZanimauxBundle:User:acceuil}
+
 
 
 
