@@ -11,9 +11,6 @@ inscription:
 modification:
     path:     /update
     defaults: { _controller: ZanimauxBundle:Vet:update }
-acceuil:
-    path:     /acceuil
-    defaults: { _controller: ZanimauxBundle:User:acceuil}
 
 
 
